@@ -1,0 +1,30 @@
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.exe.config
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.exe
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.pdb
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csprojAssemblyReference.cache
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.ResolveComReference.cache
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.MyMusicPlayer.resources
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.Properties.Resources.resources
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.GenerateResource.cache
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.CoreCompileInputs.cache
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.exe
+C:\Users\ajaqu\Desktop\music player with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.pdb
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.exe.config
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.exe
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Mymusicplayer.pdb
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csprojAssemblyReference.cache
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.ResolveComReference.cache
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.MyMusicPlayer.resources
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.Properties.Resources.resources
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.GenerateResource.cache
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.csproj.CoreCompileInputs.cache
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.exe
+C:\Users\ajaqu\Desktop\project with c#\Mymusicplayer\Mymusicplayer\obj\Debug\Mymusicplayer.pdb
